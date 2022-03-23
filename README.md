@@ -1,4 +1,4 @@
-Features of following
-1. Product_catalogue
-2. testimonials
-3.dicount_plans
+List of features 
+1. product_catalog
+2. discount_plans
+3. testimonials
